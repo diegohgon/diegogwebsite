@@ -3,22 +3,19 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-first_name: Shiung Wu
+  - course: PhD in Bioengineering
+    institution: Rice University
+    year: In Progress
+  - course: BSc in Bioengineering
+    institution: Rice University
+    year: 2021
+first_name: Diego
 highlight_name: true
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-last_name: Chien
+last_name: Gonzalez
 name_pronunciation: Chien Shiung Wu
 organizations:
 - name: Stanford University
