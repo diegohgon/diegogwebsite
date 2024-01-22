@@ -12,15 +12,15 @@ education:
 first_name: Diego
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Global Health
+- Diagnostics
+- HIV
 last_name: Gonzalez
 name_pronunciation: Chien Shiung Wu
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Rice University
+  url: https://bioengineering.rice.edu
+role: PhD Student in Bioengineering
 skills:
 - items:
   - description: ""
