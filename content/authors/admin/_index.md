@@ -32,11 +32,11 @@ skills:
     icon_pack: fas
     name: Data Science
     percent: 100
-  - description: ""
-    icon: database
-    icon_pack: fas
-    name: SQL
-    percent: 40
+  # - description: ""
+  #   icon: database
+  #   icon_pack: fas
+  #   name: SQL
+  #   percent: 40
   name: Technical
 - color: '#eeac02'
   color_border: '#f0bf23'
